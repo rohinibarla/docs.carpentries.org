@@ -45,7 +45,7 @@ cover local costs.  For a centrally organised workshop, there is a fee if the or
 is not already a Carpentries member.
 
 Note that you are free to charge what you choose for a workshop;
-this is a perennial topic of discussion among the Carpentries community and there's
+this is a perennial topic of discussion among the Carpentries community and there is
 a good summary of points here: `Carpentries Blog on Charging for Workshops <https://carpentries.org/blog/2019/06/carpentries-workshops-fees/>`_.
 
 In both cases (self- or centrally-organised), you can start the workshop
