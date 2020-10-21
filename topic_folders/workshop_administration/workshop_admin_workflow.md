@@ -30,7 +30,7 @@
 
 1. Regional Coordinator reviews list of instructors signed up as interested in upcoming workshops and tentatively places them based on experience, geography, and skill set. See [blog post for details](https://software-carpentry.org/blog/2018/01/assign-instructors.html). Selection guidelines include:
 
-    * **Other workshops has that person signed up for in that time period**  If they have volunteered to teach three workshops over the next few months, we likely won’t place them at all of them. However, we will take advantage of their flexibility to get them in on at least one.
+    * **Other workshops has that person signed up for in that time period**  If they have volunteered to teach three workshops over the next few months, we likely will not place them at all of them. However, we will take advantage of their flexibility to get them in on at least one.
     * **Each person's experience with The Carpentries** We want to be sure to match up experienced instructors with new instructors, so new instructors are supported by experienced instructors. 
     * **Each person's skill set with Carpentries material**  We want to make sure each instructor is comfortable teaching the workshop content, and understands the other instructor's skills.
     * **Each person's academic or professional domain** It can be helpful, but not required, to match the instructors' domain with the workshop audience. Instructors get opportunities to network in their fields, and learners get to hear from people working in those same fields.
