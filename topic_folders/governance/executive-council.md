@@ -31,8 +31,6 @@ restricted to Executive Council members.
 We wish to be as transparent as we can,
 but sometimes we need to choose to withhold information from others.
 
-<!--From https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md]-->
-
 #### Responsibilities of all Executive Council Members
 
 The [Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council)
